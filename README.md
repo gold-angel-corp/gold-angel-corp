@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gold-angel-corp
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning GDScript
+- 🌱 I’m currently learning GDScript, Game Design, Java(Oracle Corporation)
 - 📫 Contact via e-mail: goldangel@gmx.com
 
 <!---
