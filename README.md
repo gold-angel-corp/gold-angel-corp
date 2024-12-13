@@ -5,7 +5,7 @@
 
 Please check out my stores and official website about corporation. Thanks in advance!
 
-<img src="https://i.ibb.co/KKsK2Y1/Gold-Angel-Titania-Gold-Angel-Sound-Team.png" width="110px" height="110px" float="left"  /> <img src="https://i.ibb.co/LQNz3M6/Gold-Angel-Titania-Gold-Moon-Rod.png" width="110px" height="110px" float="left" />
+<img src="https://i.ibb.co/KKsK2Y1/Gold-Angel-Titania-Gold-Angel-Sound-Team.png" width="90px" height="90px" float="left"  /> <img src="https://i.ibb.co/LQNz3M6/Gold-Angel-Titania-Gold-Moon-Rod.png" width="90px" height="90px" float="left" />
 
 <!---
 gold-angel-corp/gold-angel-corp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
