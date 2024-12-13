@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @gold-angel-corp! A game developer focused on RPG. Please see my Wallpapers repository to know my works! There are a Gold Angel Sound Team which composer songs and sounds
+- 👋 Hi! I'm @gold-angel-corp! A game developer focused on RPG. Please see my Wallpapers repository to know my works! There are a Gold Angel Sound Team which composer songs and sounds
   to games! I must to be real with you: I am not good composing songs but I'm trying my best! Wish me Luck!
   
 - 🌱 I’m currently learning GDScript, Game Design, Java (Oracle Corporation) and Pixel Art!
