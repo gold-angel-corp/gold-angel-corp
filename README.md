@@ -7,4 +7,4 @@
 
 Please check out my stores and official website about corporation. Thanks in advance!
 
-<img src="https://i.ibb.co/KKsK2Y1/Gold-Angel-Titania-Gold-Angel-Sound-Team.png" width="90px" height="90px" float="left"  /> <img src="https://i.ibb.co/LQNz3M6/Gold-Angel-Titania-Gold-Moon-Rod.png" width="90px" height="90px" float="left" />
+<img src="https://i.ibb.co/mJyPr5L/Gold-Angel-Titania-Gold-Angel-Sound-Team.png" width="90px" height="90px" float="left"  /> <img src="https://i.ibb.co/4N1YY7r/Gold-Angel-Titania-Gold-Moon-Rod.png" width="90px" height="90px" float="left" />
